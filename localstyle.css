@@ -1,0 +1,10 @@
+#pool *{
+    text-align: center;
+    margin: 5px;
+}
+#controlPanel {
+    text-align: center;
+}
+span {
+    font-size: .8em;
+}
